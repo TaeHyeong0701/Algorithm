@@ -1,7 +1,7 @@
 # Algorithm
 Algorithm Coding Using JAVA
 
-> https://www.acmicpc.net/  (백준 공개 알고리즘)
+> https://www.acmicpc.net/problemset  (백준 공개 알고리즘)
 
 ![algorithm](https://user-images.githubusercontent.com/44318904/52165565-d87fed80-2745-11e9-988c-2d00ccaec73d.gif)
 
