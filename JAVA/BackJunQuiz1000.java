@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // 스캐너를 사용하기 위해 import시켜줌.
-public class quiz1 {
+public class BackJunQuiz1000 {
 // 1000번 문제
 // 입력 예시 1 2
 // 출력 예시 3
