@@ -1,8 +1,10 @@
+// Written By TaeHyeong
+// Reporting Date : `19.2.6
 import java.util.Scanner;
 
 public class BaekJunQuiz1008 {
-// ÀÔ·Â ¿¹½Ã 3 2
-// Ãâ·Â ¿¹½Ã 1
+// ìž…ë ¥ ì˜ˆì‹œ 1 3 (ë‚˜ëˆ—ì…ˆ)
+// ì¶œë ¥ ì˜ˆì‹œ 0.3333333333333333
 
 	    public static void main(String[] args){
 	        
